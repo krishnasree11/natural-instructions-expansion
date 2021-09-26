@@ -491,3 +491,8 @@ Name | Summary | Category
 `task582_naturalquestion_answer_generation` | You are given an open-domain question and return an answer based on factual information | Answer Generation
 `task615_moviesqa_answer_generation` | Given a question from an open movie database, generate an answer for that. | Answer Generation
 `task561_spl_translation_en_bg` | Language Translate of Dataset Card for ALT from English language to Bengali language while preserving named entities in the original language | Language Translation
+`task834_xlsum_title_generation` | Generating title for the text in xlsum | Title Generation
+`task835_xlsum_summary_generation` | Generating summary for the text in xlsum | Summary Generation
+`task836_xlsum_title_generation` | Generates title for the text in xlsum | Title Generation
+`task837_numer_sense_answer_generation` | Generates answer to numer sense | Answer Generation
+`task838_numer_sense_multiple_choice_qa_generation` | Generating answers to numer sense | Multiple Choice QA Generation
